@@ -1,0 +1,11 @@
+# OpenSignals Event Annotation
+# {"columns": {"labels": ["MAC", "CHANNEL", "ID", "START", "END"]}, "1": {"label": "m", "color": "#000000", "mac": "All", "channel": "All"}, "2": {"label": "k", "color": "#4f1c1c", "mac": "All", "channel": "All"}}
+# EndOfHeader
+0007804B2C2B	A2	1	459.15	459.15	
+0007804B2C2B	A3	1	459.15	459.15	
+0007804B2C2B	A4	1	459.15	459.15	
+0007804B2C2B	IO1	1	459.15	459.15	
+0007804B2C2B	A2	2	607.95	607.95	
+0007804B2C2B	A3	2	607.95	607.95	
+0007804B2C2B	A4	2	607.95	607.95	
+0007804B2C2B	IO1	2	607.95	607.95	
